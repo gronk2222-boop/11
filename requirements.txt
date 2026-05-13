@@ -1,0 +1,8 @@
+aiogram>=3.0
+sqlalchemy[asyncio]>=2.0
+asyncpg
+cryptography
+groq
+apscheduler
+pytest
+pytest-asyncio
